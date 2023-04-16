@@ -1,6 +1,6 @@
 # ProcessManagmentApp
 
-## Project Description:
+## Project Description
 
 The project contains a process management GUI application implemented in C# that provides basic functionalities for displaying all running processes and their corresponding IDs, as well as allowing the user to kill specific processes. The GUI application has a visually appealing design and allows the user to perform these operations in an intuitive and user-friendly manner.
 
